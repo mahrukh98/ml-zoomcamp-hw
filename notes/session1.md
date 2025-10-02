@@ -140,7 +140,7 @@ adjust problem statement / stop working
 5. $X_{\text{train}},\ y_{\text{train}}$ → from training data.
 6. $X_{\text{val}},\ y_{\text{val}}$ → from validation data.
 7. $g(X_{\text{val}}) = \hat{y}_{\text{val}}$
-8. Compare $\hat{y}_{val}$ with $y_{val}$.
+8. Compare $\hat{y}_{\text{val}}$ with $y_{\text{val}}$.
 If the prediction is greater than a certain threshold, we assign it to predefined label categories:
 
 $$
